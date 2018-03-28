@@ -5,3 +5,4 @@ var fml =1333
 
 
 val veryMuchPotatos = 123
+val hurray = 12323
