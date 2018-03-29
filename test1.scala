@@ -8,3 +8,5 @@ val veryMuchPotatos = 123
 val hurray = 12323
 
 val yeah = 123123
+
+var issue = 123123123
